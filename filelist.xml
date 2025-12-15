@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="EK Weapons - Dynamic Europa Patch" modversion="1.0.3" corepackage="False" steamworkshopid="3455965207" gameversion="1.11.4.1" expectedhash="61945162B47A8CAF0399C617C2830CEF">
+  <NPCSets file="%ModDir%/NPCs/npcoverrides.xml" />
+  <NPCSets file="%ModDir%/NPCs/npcoverridescombat.xml" />
+  <Item file="%ModDir%/overrides/overrides.xml" />
+</contentpackage>
